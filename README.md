@@ -29,9 +29,9 @@ Passionate about software and cloud architectures, microservices, and scalable b
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
+| [sa-spring-ai-shopping-service](https://github.com/ahmfarghaly/sa-spring-ai-shopping-service) | Spring AI shopping service | Java, Spring Boot, Spring AI |
 | [sa-cloudnative-booking-service](https://github.com/ahmfarghaly/sa-cloudnative-booking-service) | Cloud-native microservices booking system | Spring Boot, Docker, Kubernetes |
 | [sa-cqrs-shopping-service](https://github.com/ahmfarghaly/sa-cqrs-shopping-service) | CQRS/ES shopping service | Java, Spring Boot, Event Sourcing |
-| [sa-spring-ai-shopping-service](https://github.com/ahmfarghaly/sa-spring-ai-shopping-service) | Spring AI shopping service | Java, Spring Boot, Spring AI |
 | [employee-state-machine](https://github.com/ahmfarghaly/employee-state-machine) | Employee workflow state machine | Java, Spring State Machine |
 | [devams-flask-notes](https://github.com/ahmfarghaly/devams-flask-notes) | A Python-Flask webapp applying CI/CD with blue/green deployment strategy | AWS, Python, Flask |
 
